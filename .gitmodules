@@ -1,0 +1,6 @@
+[submodule "ThirdParty/JUCE"]
+	path = ThirdParty/JUCE
+	url = https://github.com/juce-framework/JUCE.git
+[submodule "ThirdParty/rtsan"]
+	path = ThirdParty/rtsan
+	url = https://github.com/realtime-sanitizer/rtsan.git
